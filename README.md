@@ -4,7 +4,7 @@ Repo para las tareas del curso DevOps de la USACH 2025.
 
 # **Integrantes**
 
-## Alejandro Sebastian Alejo Patarroyo 🇨🇴
+## Alejandro Sebastian Alejo Patarroyo 👨‍💻
 
 Ingeniero de Sistemas y Computación de la Universidad Nacional de Colombia, con una gran pasión por la ciberseguridad. Poseo habilidades destacadas en hacking ético, gestión y ejecución de proyectos, gestión de recursos humanos y trabajo en equipo.
 
