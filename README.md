@@ -13,3 +13,11 @@ Redes sociales:
 - Github: [@Alejosebasp](https://github.com/Alejosebasp)
 - IG: [@Alejosebasp](https://www.instagram.com/alejosebasp/)
 - X: [@Alejosebasp](https://x.com/alejosebasp)
+
+## Braulio Alejandro Oyarzún Barros 👨‍💻
+
+Ingeniero de Software con experiencia en Ruby on Rails, React, Next.js y Docker. Actualmente trabajo en Salcobrand como desarrollador frontend, luego de haber trabajado en Maconline en proyectos de ecommerce. Apasionado por DevOps, con interés en automatización e infraestructura.
+
+Redes sociales:
+- LinkedIn: [@braulio-oyarzun](https://www.linkedin.com/in/braulio-oyarzun/)
+- GitHub: Próximamente 😉
