@@ -29,3 +29,11 @@ Ingeniero de redes titulado en DuocUC, actualmente trabajando en TransUnion.
 Redes sociales:
 - LinkedIn: 
 - GitHub:
+
+## José Andrés Contreras Gualamán 👨‍💻
+
+Analista Programador Titulado Inacap, actualmente trabajando en Imbra.
+
+Redes sociales:
+- LinkedIn: 
+- GitHub:
