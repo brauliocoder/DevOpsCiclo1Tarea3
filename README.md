@@ -21,3 +21,11 @@ Ingeniero de Software con experiencia en Ruby on Rails, React, Next.js y Docker.
 Redes sociales:
 - LinkedIn: [@braulio-oyarzun](https://www.linkedin.com/in/braulio-oyarzun/)
 - GitHub: Próximamente 😉
+
+## Mario Andres Cornejo Maldonado 👨‍💻
+
+Ingeniero de redes titulado en DuocUC, actualmente trabajando en TransUnion.
+
+Redes sociales:
+- LinkedIn: 
+- GitHub:
